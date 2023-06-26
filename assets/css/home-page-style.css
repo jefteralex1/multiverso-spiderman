@@ -7,7 +7,7 @@ body {
 
 body::before {
   content: "";
-  background-image: url('../imagens/spider-man-background.jpg');
+  background-image: url('../images/spider-man-background.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -51,7 +51,6 @@ body::before {
   height: 70vh;
   position: absolute;
   transition: filter .5s ease-in-out;
-    border-radius: 20px;
 }
 
 .s-card:nth-child(1) {
